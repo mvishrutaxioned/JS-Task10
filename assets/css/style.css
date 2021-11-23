@@ -217,3 +217,7 @@ h2 {
   main styling ends here
 =================================*/
 
+/*keyframes starts here*/
+@keyframes wave {
+  to { left: 110%; }
+}
